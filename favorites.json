@@ -1,0 +1,36 @@
+{
+  "{\"clearance\": \"15\", \"cut\": \"1.415x7\", \"knife_female\": \".245\", \"knife_male\": \".245\", \"material\": \"Aluminum\", \"thickness\": \".028\"}": {
+    "uses": 4,
+    "data": {
+      "customer": "Rollstar",
+      "cut": "1.415x7",
+      "thickness": ".028",
+      "clearance": "15",
+      "knife_female": ".245",
+      "knife_male": ".245",
+      "coil_width": "10.3",
+      "coil_weight": "1700",
+      "tol_plus": ".005",
+      "tol_minus": "0",
+      "material": "Aluminum",
+      "auto_deflect": 1
+    }
+  },
+  "{\"clearance\": \"15\", \"cut\": \"1.415x15\", \"knife_female\": \".245\", \"knife_male\": \".245\", \"material\": \"Aluminum\", \"thickness\": \".028\"}": {
+    "uses": 1,
+    "data": {
+      "customer": "Rollstar",
+      "cut": "1.415x15",
+      "thickness": ".028",
+      "clearance": "15",
+      "knife_female": ".245",
+      "knife_male": ".245",
+      "coil_width": "10.3",
+      "coil_weight": "1700",
+      "tol_plus": ".005",
+      "tol_minus": "0",
+      "material": "Aluminum",
+      "auto_deflect": 1
+    }
+  }
+}
